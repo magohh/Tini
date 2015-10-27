@@ -1,0 +1,111 @@
+.amarisho{
+	background-color: #FFBF00;
+	width: 100%;
+	height:100%;
+}
+
+*{
+color:white;
+font-family: "roboto"	
+}
+
+ul li{
+	display: inline;
+	list-style: none;
+	margin:15px;
+	font-size: 13px
+}
+
+div ul{
+	text-align: right;
+	margin-top: 40px
+}
+
+button{
+	background-color:#FE9A2E;
+	border-style: none;
+	width:15%;
+	padding-top: 20px;
+	padding-bottom: 20px
+}
+
+button p{
+	text-align: left;
+	padding-left: 15px}
+
+.encabezado{
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 250px
+}
+
+h1{
+	font-size:30px;
+	letter-spacing:3px
+}
+h4{
+	font-size: 15px;
+	letter-spacing:2px
+}
+
+.grisesisho{
+	background-color:#D8D8D8;
+	padding-bottom: 40px
+}
+
+.cajas{
+	width:100%;
+	background-color: white;
+	margin-top:40px;
+	padding-top: 40px;
+	
+}
+
+.chicos{
+	width:70%;
+	margin: auto
+}
+.cuadrogris{
+	width:70%;
+	height:200px;
+	background-color: #BDBDBD;
+	margin: auto;
+}
+
+.textin{
+	color:gray;
+	font-size: 10px;
+	font-weight: normal;
+	margin: 10px 10px;
+	text-align: justify
+
+}
+
+.ejemplo{
+	font-size: 20px;
+	margin-left: 10px;
+	margin-top: 10px;
+	color:gray;
+}
+
+.cuadrodelboton{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.boton2{
+	width: 30%;
+	padding: 10px;
+	}
+
+.footer{
+	background-color: gray;
+	height:150px;
+	padding-top: 40px
+
+}
+h3{
+	color:gray;
+	text-align: center;
+	padding-top: 50%
+}
